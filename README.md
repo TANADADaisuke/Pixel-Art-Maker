@@ -8,5 +8,5 @@ This is HTML based pixel design maker. Players can **select pixel size and color
 * Click `submit` button.
 * Now you can play with it!
 
-# Licience
+# Licence
 This project belongs to udacity nanodegree program: [Intro to programing](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)
